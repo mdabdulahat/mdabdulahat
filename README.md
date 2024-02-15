@@ -1,5 +1,5 @@
 <div align="center" >
-     <img style="width: 94%; height: auto;"  src = "https://i.ibb.co/VHFjZBB/Masfik-talukdar-2.png"/>
+     <img style="width: 94%; height: auto;"  src = "https://i.ibb.co/k82Cv71/Black-Elegant-Minimalist-Profile-Linked-In-Banner.png"/>
 </div>
 
 <div align='center'>
