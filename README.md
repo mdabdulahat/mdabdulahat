@@ -3,7 +3,7 @@
 </div>
 
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Front-end Developer;JavaScript Developer;Graphics Designer;Passionate For ML and AI" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+&weight=700&size=22&pause=106&center=true&vCenter=true&width=460&lines=Android apps Developer;Java Developer;Graphics Designer;Passionate For ML and AI" alt="Typing SVG" />
 
 </a>
 
@@ -48,7 +48,7 @@
 
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masfik-talukdar/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/masfik.talukdar.7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-abdul-ahat-198a17235/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ahad8952)
 
 
 <!-- <div align="center" >
