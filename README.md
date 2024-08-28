@@ -7,20 +7,20 @@
 
 </a>
 
-<P>Hi there! I'm Masfik Talukdar, a driven Full Stack Developer and Graphics Designer. I'm passionate about pushing the boundaries of technology, particularly in the realms of AI and machine learning. My goal is to become a versatile Full Stack Developer with the ability to implement cutting-edge AI solutions to tackle real-world problems.</P>
+<P>Hi there! I'm MD Abdul Ahat, a driven App Developer and Graphics Designer. My goal is to become an App Developer with the ability to implement cutting-edge WEB solutions to tackle real-world problems.</P>
 </div>
 
 ## Current Overview
 
-#### 🥅 Goals of 2024 - React, Redux, Express, TypeScript, Mongoose,Node.js, Python, TensorFlow
+#### 🥅 Goals of 2024 - JavaScript, JAVA, Python, PHP
 
 <img align="right" src="https://i.ibb.co/TMSfT1s/32353962-c7ki-coub-220829.jpg" alt="Penguin" width="20%" />
 
 #### 👯 I’m looking - To collaborate on open-source projects
 
-#### 🌱 I’m currently learning - Core JavaScript and React
+#### 🌱 I’m currently learning - JavaScript
 
-#### 👨‍💻 Passionate About Full stack Web Development with AI & ML
+#### 👨‍💻 Passionate About App Development and Web Development
 
 #### 💤 Fun fact - Still thinking..
 
