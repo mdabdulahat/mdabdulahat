@@ -34,9 +34,8 @@
 
 ### ⚡Backend
 
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> | <img
-src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40"/> |
-|-|-|
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"/> | 
+|-|
 
 
 ### ⚡Tools
